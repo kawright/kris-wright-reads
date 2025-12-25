@@ -4,15 +4,15 @@
 
 ## Book Information
 
-- TITLE: The History of Sexuality, Volume 1: An Introduction
+TITLE: The History of Sexuality, Volume 1: An Introduction
 
-- AUTHOR: Michel Foucault
+AUTHOR: Michel Foucault
 
-- TRANSLATOR: Robert Hurley
+TRANSLATOR: Robert Hurley
 
-- EDITION: Vintage Books Edition March 1990
+EDITION: Vintage Books Edition March 1990
 
-- YEAR OF 1ST PUBLICATION: 1976
+YEAR OF INITIAL PUBLICATION: 1976
 
 
 ## Part 1: We "Other Victorians"
