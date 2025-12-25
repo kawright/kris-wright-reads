@@ -1,10 +1,4 @@
-# Kris Wright Reads
-
-*The collected notes, analyses, and essays of Kristoffer A. Wright*
-
----
-
-## Notes: Foucault, Michel - The History of Sexuality, Volume 1: An Introduction
+# Notes: Foucault, Michel - The History of Sexuality, Volume 1: An Introduction
 
 - Michel Foucault
 
@@ -79,7 +73,10 @@ the modes of production".
 - [6] Sex is repressed as such because of its incompatibility with the intensity
 of subjugation required of capitalism.
 
+
+---
+
+
 <!-- FOOTNOTES -->
  
-[^1]: Transfiguration here likely refers to the biblical transfiguration. That is
-to say, sexuality was to become under liturgical purview.
+[^1]: Transfiguration here likely refers to the biblical transfiguration. That is to say, sexuality was to come under liturgical purview.
